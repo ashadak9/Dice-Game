@@ -1,0 +1,40 @@
+body{
+    background-color: pink;
+}
+.container{
+    font-size: 4rem;
+    font-family: 'Lobster', sans-serif;
+    color: palevioletred;
+    text-align: center;
+    margin: auto;
+}
+p{
+    color: palevioletred;
+    font-family: 'Courgette', cursive;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bold;
+}
+.dice{
+    display: inline-block;
+    text-align: center;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.second_container{
+    text-align: center;
+       
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+footer{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 1.5rem;
+    text-align: center;
+    color: palevioletred;
+    margin-top: 100px;
+    font-weight: bold;
+}
+
